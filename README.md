@@ -1,4 +1,4 @@
-In March 2021 I decided to start the [Lemoncode Bootcamp](https://lemoncode.net/bootcamp-javascript). I enjoyed it so much that after that I did the [Lemoncode front-end master](https://lemoncode.net/master-frontend) which I recently finished (April 2022). There I have been playing with all these technologies:
+In March 2021 I joined the  [Lemoncode Bootcamp](https://lemoncode.net/bootcamp-javascript). I enjoyed it so much that after that I enrolled in the [Lemoncode front-end master](https://lemoncode.net/master-frontend) I recently finished in April 2022. Since then, I've been playing with all these technologies:
 
 **Languages**:
 
